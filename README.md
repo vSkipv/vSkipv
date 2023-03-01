@@ -7,10 +7,6 @@
   
 I'm a **Computer Science Student** at Misr University For Science and Technology (MUST) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 🔭. I'm currently into **Computer Science** 💻 and I also do some **Artificial Intelligence** 🕸️.
 
-### 👨‍💻 Talking about me:
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" style="max-width: 50%;" alt="Welcome to my Github Profile" />
-  
-  <img align="right" width="400" alt="" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" />
+### 👨‍💻 Talking about me:  
+<img align="right" width="400" alt="" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifcid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" />
   
