@@ -1,4 +1,3 @@
-<img align="right" width="400" alt="" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" />
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
