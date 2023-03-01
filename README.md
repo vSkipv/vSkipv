@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 	
-<h1 align="center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I am [Eyad Almallah](https://github.com/vSkipv) ~</h1>
-	
+### Hi there 👋🏻
+## I am [Eyad Almallah](https://github.com/vSkipv)	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eyad-almallah-a7188b233/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/EyadAlmallah)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-square&logo=Facebook&logoColor=white)](https://www.facebook.com/eyad.almallah99)
