@@ -39,5 +39,5 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 <br/>
 
-<details>	
+	
   <br />
