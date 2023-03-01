@@ -41,3 +41,18 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 	
   <br />
+	
+  <summary><b>⚙️ My Workflow And Tools</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> Windows 11 & Linux ubuntu</li>
+	    <li><b>Laptop: </b> HP Laptop 15-dw3010nx (i5)</li>
+	    <li><b>PC: </b> Intel Core I7, 16GB Ram, GTX 1060 </li>
+  	  <li><b>Browser: </b> Chrome </li>
+	    <li><b>Terminal: </b> Powershell, ZSH </li>
+	    <li><b>Code Editor:</b> Clion & VSCODE </li>
+	  </ul>	
+</details>
+
+<details>	
+  <br/>
+
