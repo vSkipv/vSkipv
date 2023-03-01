@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" style="max-width: 50%;" alt="Welcome to my Github Profile" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" style="max-width: 50%;" alt="Welcome to my Github Profile" />
 
 ### Hi there 👋
 ## I am [Eyad Almallah](https://github.com/vSkipv)
