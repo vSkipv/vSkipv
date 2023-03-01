@@ -42,7 +42,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 	
   <br />
 	
-  <summary><b>⚙️ My Workflow And Tools</b></summary>
+<summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows 11 & Linux ubuntu</li>
 	    <li><b>Laptop: </b> HP Laptop 15-dw3010nx (i5)</li>
