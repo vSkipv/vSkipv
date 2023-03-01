@@ -23,16 +23,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <code><a href="https://www.hackerrank.com/EyadAlmallah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a></code>	
   </details>
   
-  ### ⚡ GitHub Stats:
-  
-  <div align="center">
-<a href="https://github.com/vSkipv">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api?username=Ahmedsaed&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
-</a>
-<a href="https://github.com/Ahmedsaed">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api/top-langs/?username=Ahmedsaed&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff" />
-</a>
-</div>
-
+### ⚡ GitHub Stats:
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vSkipv&layout=compact)](https://github.com/vSkipv/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vSkipv&show_icons=true&theme=radical)
