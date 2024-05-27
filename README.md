@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/26Bu23UMAFdWxNcQM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/originals-mothers-day-elephants-happy-26Bu23UMAFdWxNcQM">via GIPHY</a></p>
+	  <img src="[https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tlgu6ruohynph3m6pcgukzjqzvkdx6s05bvslib7&rid=giphy.gif&ct=g](https://giphy.com/embed/26Bu23UMAFdWxNcQM)" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+ <iframe src="https://giphy.com/embed/26Bu23UMAFdWxNcQM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 	
 ### Hi there 👋🏻
 ## I am [Eyad Almallah](https://github.com/vSkipv)	
