@@ -9,8 +9,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-square&logo=Instagram&logoColor=white)](https://www.instagram.com/eyadalmallah)
 
   
-I'm a **Computer Science Student** at Misr University For Science and Technology (MUST) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 🔭. I'm currently into **Computer Science** 💻.
+I'm a **Graduate Student in Computer Science** at Misr University For Science and Technology (MUST) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 🔭. I'm currently into **Computer Science** 💻.
 
+If you want it more formal (for LinkedIn/CV) or more casual, tell me 👍
 ### 👨‍💻 Talking about me:  
 
 - 🛠 I’m currently working with Python, C++, a little bit with java
